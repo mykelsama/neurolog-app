@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "mykelsama",
+        "projectKey": "mykelsama_neurolog-app"
+    }
+}
